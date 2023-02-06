@@ -7,9 +7,9 @@ I'm studying graphics and algebra(for further geometry study) by writing latex n
 This is my email:<br>
 zixunxiong@umass.edu <br>
 
-Here is a sample of my notes(which you can find in pdf files I uploaded):
+Here is a sample of my notes(which you can find in pdf files I uploaded):<br>
 <img width="355" alt="image" src="https://user-images.githubusercontent.com/116760304/216772099-d20c1621-8612-4a1c-879f-6b85e1ed733f.png">
-
+<img width="623" alt="image" src="https://user-images.githubusercontent.com/116760304/217025591-f66b7399-9032-4adc-9c9e-6804dee36428.png">
 
 
 
